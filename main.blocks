@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="ZkUo=D@QH(BP.wii[wHS" x="0" y="0"></block><block type="device_forever" id="QzdjS^chRwE!|d3OtB[|" x="238" y="-10"><statement name="HANDLER"><block type="device_show_leds" id="MpMQH6tdhB#Zo3ZFaNrZ"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="c_rb*Pi.BNrS3qs/e^2i"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></statement></block></xml>
